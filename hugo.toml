@@ -6,3 +6,9 @@ theme = "PaperMod"
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
