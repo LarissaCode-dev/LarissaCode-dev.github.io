@@ -1,0 +1,8 @@
+baseURL = "https://LarissaCode-dev.github.io/"
+languageCode = "en-us"
+title = "LarissaCode Tech Tutorials"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
