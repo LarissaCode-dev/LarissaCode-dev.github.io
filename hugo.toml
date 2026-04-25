@@ -3,12 +3,10 @@ languageCode = "en-us"
 title = "LarissaCode Tech Tutorials"
 theme = "PaperMod"
 
-[author]
-  name = "LarissaCode"
-
 [params]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  name = "LarissaCode"
 
 enableRobotsTXT = true
 
